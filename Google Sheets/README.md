@@ -2,6 +2,9 @@
 
 This is a place to share and understand scripts that pertain directly to Google Sheets.
 
+
+Official Documentation [Here](https://developers.google.com/apps-script/reference/spreadsheet).
+
 # Index
 
 - [Clearing Spreadsheet Data](#ClearingSpreadsheetData)
@@ -9,10 +12,11 @@ This is a place to share and understand scripts that pertain directly to Google 
 - [Setting Spreadsheet Data](#SettingSpreadsheetData)
 
 
+
+
 <a name="ClearingSpreadsheetData"></a>
 ## [ClearingSpreadsheetData.js](https://github.com/coltoneshaw/Google-Apps-Script-Functions/blob/main/Google%20Sheets/clearingSpreadsheetData.js)
-=======
-Official Documentation [Here](https://developers.google.com/apps-script/reference/spreadsheet).
+
 
 ## ClearingSpreadsheetData.js
 
