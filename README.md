@@ -9,7 +9,6 @@ Any Scripts that directly relate to Google Sheets.
 
 Official Documentation [Here](https://developers.google.com/apps-script/reference/spreadsheet).
 
-### Index
 
 - [Clearing Spreadsheet Data](https://github.com/coltoneshaw/Google-Apps-Script-Functions/tree/main/Google%20Sheets#clearingspreadsheetdatajs)
 - [Geting Spreadsheet Data](https://github.com/coltoneshaw/Google-Apps-Script-Functions/tree/main/Google%20Sheets#getspreadsheetdatajs)
@@ -19,7 +18,6 @@ Official Documentation [Here](https://developers.google.com/apps-script/referenc
 ## General Functions
 These are scripts that could be used anywhere within the GSuite.
 
-### Index
 
 - [Setting User Properties](https://github.com/coltoneshaw/Google-Apps-Script-Functions/tree/main/General%20Functions#settinguserpropertiesjs)
 
