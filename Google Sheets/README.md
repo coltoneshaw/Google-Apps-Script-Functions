@@ -2,7 +2,6 @@
 
 This is a place to share and understand scripts that pertain directly to Google Sheets.
 
-<<<<<<< HEAD
 # Index
 
 - [Clearing Spreadsheet Data](#ClearingSpreadsheetData)
@@ -12,11 +11,6 @@ This is a place to share and understand scripts that pertain directly to Google 
 
 <a name="ClearingSpreadsheetData"></a>
 ## [ClearingSpreadsheetData.js](https://github.com/coltoneshaw/Google-Apps-Script-Functions/blob/main/Google%20Sheets/clearingSpreadsheetData.js)
-=======
-Official Documentation [Here](https://developers.google.com/apps-script/reference/spreadsheet).
-
-## ClearingSpreadsheetData.js
->>>>>>> e852a6caaa9f228a59990dab592fe21796e86717
 Clearing the entire contents of a spreadsheet by fetching it's first/last rows then deleting it.
 
 ```
@@ -140,7 +134,6 @@ function getSpreadsheetData() {
 Setting spreadsheet data based on an array. Two options in this example. 1. setting the data in your current sheet. 2. Setting the data by feeding the function a sheet name and data.
 
 This works well for CSV files or any files that you would have typically stored in an array or spreadsheet like format.
-<<<<<<< HEAD
 
 ```
 
@@ -200,5 +193,3 @@ function setSpreadsheetDataByName(data,name) {
     ss.getRange(1, 1, output.length, output[0].length).setValues(output);
   }
 ```
-=======
->>>>>>> e852a6caaa9f228a59990dab592fe21796e86717
