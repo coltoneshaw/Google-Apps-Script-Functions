@@ -1,4 +1,4 @@
-# GoogleAppsScriptFunctions
+# Google Apps Script Functions
 Any useful functions and scripts that can be run within Google Apps Script. This is designed so others can share their solutions to problems they've faced within GAS! 
 
 You can find official documentation to solutions [here](https://developers.google.com/apps-script).
