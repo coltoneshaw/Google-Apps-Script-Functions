@@ -1,3 +1,7 @@
+/*
+Clearing the entire contents of a spreadsheet by fetching it's first/last rows then deleting it.
+*/
+
 
 //this function is the spreadsheet function to be used when calling a sheet. Need to use this when modifying data.
 function getDefaultSheetByName(sheetName) {
