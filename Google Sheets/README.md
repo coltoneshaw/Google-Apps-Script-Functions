@@ -2,6 +2,7 @@
 
 This is a place to share and understand scripts that pertain directly to Google Sheets.
 
+<<<<<<< HEAD
 # Index
 
 - [Clearing Spreadsheet Data](#ClearingSpreadsheetData)
@@ -139,6 +140,7 @@ function getSpreadsheetData() {
 Setting spreadsheet data based on an array. Two options in this example. 1. setting the data in your current sheet. 2. Setting the data by feeding the function a sheet name and data.
 
 This works well for CSV files or any files that you would have typically stored in an array or spreadsheet like format.
+<<<<<<< HEAD
 
 ```
 
@@ -198,3 +200,5 @@ function setSpreadsheetDataByName(data,name) {
     ss.getRange(1, 1, output.length, output[0].length).setValues(output);
   }
 ```
+=======
+>>>>>>> e852a6caaa9f228a59990dab592fe21796e86717
