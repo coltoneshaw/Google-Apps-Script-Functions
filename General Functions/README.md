@@ -8,7 +8,7 @@ Setting, fetching, and deleting user properties. This is useful for storing user
 A Best practice would be to have a comment above your user properties with a description of possible properties and what they do. You can use this
 to the point if you don't have that information it gets confusing.
 
-```
+```javascript
 //we are setting the user propertys by feeding it a property name and data. both sets of data need to be a string, and a boolean will NOT work.
 // example setUserProperty("name", name ); 
 // use the above if you are trying to make a dynamic prperty.
