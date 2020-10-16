@@ -20,4 +20,5 @@ These are scripts that could be used anywhere within the GSuite.
 
 
 - [Setting User Properties](https://github.com/coltoneshaw/Google-Apps-Script-Functions/tree/main/General%20Functions#settinguserpropertiesjs)
+- [OAuth 2 - External Google Dev Link](https://github.com/googleworkspace/apps-script-oauth2)
 
