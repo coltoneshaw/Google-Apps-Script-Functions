@@ -2,6 +2,8 @@
 
 This is a place to share and understand scripts that pertain directly to Google Sheets.
 
+Official Documentation [Here](https://developers.google.com/apps-script/reference/spreadsheet).
+
 ## ClearingSpreadsheetData.js
 Clearing the entire contents of a spreadsheet by fetching it's first/last rows then deleting it.
 
